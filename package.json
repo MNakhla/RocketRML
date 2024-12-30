@@ -1,7 +1,7 @@
 {
-  "name": "rocketrml",
-  "version": "2.1.2",
-  "description": "This is a mapper for the RDF mapping language",
+  "name": "@mnakhla/rocketrml",
+  "version": "2.1.3",
+  "description": "This is a forked rocketrml mapper for the RDF mapping language",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/semantifyit/RocketRML"
+    "url": "https://github.com/MNakhla/RocketRML"
   },
   "keywords": [
     "rml",
@@ -21,17 +21,19 @@
     "Semantic Web",
     "RDF Mapping language",
     "RDF",
-    "json-ld"
+    "json-ld",
+    "fork",
+    "dependency update crash fix"
   ],
-  "homepage": "https://semantify.it",
-  "author": "STI Innsbruck",
-  "license": "CC-BY-SA",
+  "homepage": "https://github.com/MNakhla/RocketRML#readme",
+  "author": "Maria Nakhla",
+  "license": "MIT",
   "dependencies": {
     "@xmldom/xmldom": "^0.8.6",
     "csv-parse": "^5.3.3",
     "fontoxpath": "^3.28.2",
     "html2plaintext": "^2.1.4",
-    "jsonld": "^5.2.0",
+    "jsonld": "^8.3.2",
     "jsonpath-plus": "^7.2.0",
     "language-tags": "^1.0.7",
     "n3": "^1.16.3",
