@@ -1,6 +1,6 @@
 {
   "name": "@mnakhla/rocketrml",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "This is a forked rocketrml mapper for the RDF mapping language",
   "main": "src/index.js",
   "types": "src/index.d.ts",
@@ -27,7 +27,7 @@
   ],
   "homepage": "https://github.com/MNakhla/RocketRML#readme",
   "author": "Maria Nakhla",
-  "license": "MIT",
+  "license": "CC-BY-SA",
   "dependencies": {
     "@xmldom/xmldom": "^0.8.6",
     "csv-parse": "^5.3.3",
