@@ -9,7 +9,7 @@ If you want to try the mapper without installing you can also see a working demo
 ## Install
 To install it via npm:
 
-    npm install rocketrml
+    npm install @mnakhla/rocketrml
     
 ## Quick-start
 After installation, you can to copy [index.js](https://github.com/semantifyit/RocketRML/blob/master/docs/node/index.js) into your current working directory.
